@@ -20,6 +20,10 @@
   Automating the Cloud, One Pipeline at a Time
 </h2>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFFD4&width=600&lines=Automating+the+Cloud%2C+One+Pipeline+at+a+Time!" />
+</div>
+
 <!-- Core Skills -->
 <h3 align="center">🧠 Core Skills</h3>
 <p align="center">
