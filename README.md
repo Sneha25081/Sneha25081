@@ -86,11 +86,6 @@
 
 ---
 
-<!-- Fun Fact -->
-<h3 align="center">⚡️ Fun Fact</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=My+Terraform+scripts+are+cleaner+than+my+room+🧹" alt="Fun Fact Typing SVG">
-</p>
 
 ---
 
