@@ -72,12 +72,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<!-- Fun Fact -->
-<h2 align="center">⚡ Fun Fact</h2>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=Clouds+don’t+scare+me...;I+automate+them!+💪+☁️+⚙️" />
-</div>
-
 <!-- Collaborate -->
 <h2 align="center">🎯 Let’s Collaborate!</h2>
 <div align="center">
