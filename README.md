@@ -17,9 +17,7 @@
 
 <!-- Section Title -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Automating the Cloud, One Pipeline at a Time
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <!-- Core Skills -->
