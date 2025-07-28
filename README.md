@@ -1,91 +1,90 @@
-<!-- README.md -->
+<!-- GitHub Profile README - Sneha Kundu -->
 
-<!-- Header Section with Typing Effect -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span style="color:#87CEEB">Hey there, I’m Sneha Kundu</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=87CEEB&width=850&lines=Cloud+Automation+Engineer+⚙️;DevOps+%7C+Terraform+%7C+Ansible+%7C+AWS+%7C+Kubernetes;Automating+Cloud+Infra+Like+a+Pro+🚀" alt="Typing SVG">
-</div>
-
-
----
-
-<!-- About Me Section -->
-<h3 align="center">🚀 About Me</h3>
+<!-- Banner (Optional) -->
+<!-- You can upload your own banner to GitHub and paste the URL below -->
 <p align="center">
-  🧠 Cloud Automation Engineer working with VMware vRO and Python<br>
-  🌩️ Passionate about DevOps, Infrastructure as Code, and Automation<br>
-  🌱 Currently leveling up in AWS, Kubernetes, and GitHub Actions<br>
-  🎯 Building resume-grade cloud-native DevOps projects<br>
-  📚 Life-long learner with a curious mind
+  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/banner-image" alt="Sneha Kundu Banner" />
 </p>
 
----
+<!-- Typing Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FFFF&width=940&lines=Hey+there%2C+I'm+Sneha+Kundu+💻;Cloud+Automation+Engineer+%7C+DevOps+Practitioner+⚙️;Automating+cloud+infrastructure+like+a+pro+☁️🚀" alt="Typing SVG" />
+</div>
+
+<!-- Portfolio Button (optional, if you have one) -->
+<!-- <p align="center">
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Click%20Here-FF1493?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p> -->
+
+<!-- Section Title -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Automating the Cloud, One Pipeline at a Time
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <!-- Core Skills -->
 <h3 align="center">🧠 Core Skills</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/Ansible-FE0000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2EA44F?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-0078C6?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 </p>
 
----
+<!-- Exploring -->
+<h2 align="center">🧭 What I’m Exploring</h2>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100%" height="200">
+      <br><strong>Cloud-native CI/CD</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100%" height="200">
+      <br><strong>Infrastructure as Code (IaC)</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200">
+      <br><strong>Kubernetes Orchestration</strong>
+    </td>
+  </tr>
+</table>
 
+<!-- Connect -->
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=15&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-<!-- Featured Projects -->
-<h3 align="center">🌟 Featured Projects</h3>
-<ul>
-  <li>📡 <strong>Cloud-Native Feedback Platform</strong>: React + AWS Lambda + API Gateway + DynamoDB + Terraform + GitHub Actions</li>
-  <li>🧩 <strong>DevOps Job Tracker Platform</strong>: React frontend + FastAPI + PostgreSQL + Docker + K8s + Jenkins CI/CD</li>
-</ul>
-
----
-
-<!-- Interests -->
-<h3 align="center">💡 Beyond DevOps</h3>
-<p align="center">
-  🎵 Melodic mind (music lover)<br>
-  📖 Curious reader of tech, self-help & fiction<br>
-  💬 Always exploring new tech to automate the boring stuff
-</p>
-
----
-
-<!-- Let's Connect -->
-<h3 align="center">💬 Let's Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sneha-kundu-6001a2219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
----
-
-
----
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <em>🧘‍♀️ Calm under pressure • Curious at heart • Crafting automation magic</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" height="180"/>
 </p>
+
+<!-- Fun Fact -->
+<h2 align="center">⚡ Fun Fact</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=Clouds+don’t+scare+me...;I+automate+them!+💪+☁️+⚙️" />
+</div>
+
+<!-- Collaborate -->
+<h2 align="center">🎯 Let’s Collaborate!</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFFD4&width=600&lines=Open+to+DevOps+projects%2C+collabs%2C+and+cloud+gigs!" />
+</div>
