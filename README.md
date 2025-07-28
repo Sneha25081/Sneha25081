@@ -66,12 +66,12 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_radius=15&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <!-- Fun Fact -->
