@@ -2,14 +2,11 @@
 
 <!-- Banner (Optional) -->
 <!-- You can upload your own banner to GitHub and paste the URL below -->
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/banner-image" alt="Sneha Kundu Banner" />
-</p>
-
-<!-- Typing Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FFFF&width=940&lines=Hey+there%2C+I'm+Sneha+Kundu+💻;Cloud+Automation+Engineer+%7C+DevOps+Practitioner+⚙️;Automating+cloud+infrastructure+like+a+pro+☁️🚀" alt="Typing SVG" />
-</div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <span style="color:#87CEEB">Hey there, I’m Sneha Kundu</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 <!-- Portfolio Button (optional, if you have one) -->
 <!-- <p align="center">
